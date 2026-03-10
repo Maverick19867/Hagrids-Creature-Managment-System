@@ -1,7 +1,7 @@
 
 using System;
 
-namespace HogwartsSystem
+namespace HagridsCMS
 {
     public class Creature
     {
